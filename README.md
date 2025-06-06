@@ -1,7 +1,9 @@
 # 📝 BlogApp
 
 A full-stack MERN blog application where **admins** can create blog posts, and **users** can comment on and like them. This is my first complete MERN project, and it's packed with useful features for both admins and users.
+
 🌐 **Live Site:** [myblog-oufh.onrender.com](https://myblog-oufh.onrender.com)
+
 🌐 **Original Repository:** [github.com/Tanmay1Nandi/myBlog](https://github.com/Tanmay1Nandi/myBlog)
 
 
